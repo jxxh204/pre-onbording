@@ -4,21 +4,7 @@
 
 ### 원티드 프리온보딩 챌린지 - CSR / SSR with Next.js
 
-### Assignment) 개인 블로그에 아래 질문에 대한 포스팅을 하고 링크를 제출해주세요.
-
-- CSR(Client-side Rendering)이란 무엇이며, 그것의 장단점에 대하여 설명해주세요.
-- SPA(Single Page Application)로 구성된 웹 앱에서 SSR(Server-side Rendering)이 필요한 이유에 대하여 설명해주세요.
-- Next.js 프로젝트에서 `yarn start(or npm run start)` 스크립트를 실행했을 때 실행되는 코드를 Next.js Github 레포지토리에서 찾은 뒤, 해당 파일에 대한 간단한 설명을 첨부해주세요.
-    - [https://nextjs.org/docs/getting-started](https://nextjs.org/docs/getting-started) (Next.js 세팅 가이드)
-    - [https://github.com/vercel/next.js/](https://github.com/vercel/next.js/) (Next.js Github 레포지토리)
-    - `_document.js`, `_app.js`, `getServerSideProps` 같은 요소들에 대해 설명을 요구하는 과제가 아닙니다. 오히려 Next.js 코드 베이스 내부를 살펴보라는 의미입니다.
-    - 사전과제 여부나 제출된 과제 퀄리티가 수강 가능 여부 및 이후의 과정에 영향을 미치지는 않을 것이나, 3번 과제를 해보는 것이 큰 학습이 될 것이라고 확신합니다. 반드시 한번 살펴보시길 권장드립니다.
-    - 제출 전 과제가 유효한 Public 한 링크인지 다시 한번 확인 부탁드립니다.
-
 ### 과제 제출
-
-- 수행하신 과제는 챌린지 시작 후 전달될 안내에 따라 링크로 제출해주시고, 학습 수준 파악 및 강의 진행을 위해 사용될 예정입니다.
-
 1. CSR
     1. 이란? 
         1. WebSite자체를 요청하여 유저는 HTML,JS 같은 파일을 전부 받고 유저 즉 클라이언트에서 렌더링 하는 것을 말한다.
@@ -38,7 +24,7 @@
 
 next.js/packages/next/src/cli
 
-[next-start.ts](https://www.notion.so/next-start-ts-62bd7ef23205411cbafdd7e1d50af388?pvs=21)
+[next-start.ts](next-start.md)
 
 - 스크립트 명령어에 따른 분기
 
