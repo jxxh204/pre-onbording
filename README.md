@@ -33,7 +33,6 @@ packages/next/src/server/lib/start-server.ts
 [start-server.ts](start-server.md)
 
 - 스크립트 명령을 옵션으로 받고 셋업 서버 실행
-- 
 
 packages/next/src/server/next.ts
 
