@@ -30,14 +30,14 @@ next.js/packages/next/src/cli
 
 packages/next/src/server/lib/start-server.ts
 
-[start-server.ts](https://www.notion.so/start-server-ts-92d1cbe2439c4a878d60523d71cae6fd?pvs=21)
+[start-server.ts](start-server.md)
 
 - 스크립트 명령을 옵션으로 받고 셋업 서버 실행
 - 
 
 packages/next/src/server/next.ts
 
-[next.ts](https://www.notion.so/next-ts-b939e7d731f344b1905f3927719c11c5?pvs=21)
+[next.ts](next.md)
 
 - dev 서버 실행
 
@@ -72,7 +72,7 @@ packages/next/src/server/next.ts
     2. 서버 실행 : server.listen(port, hostname) 
     3. 아래의 로그 생성
         
-        ![Untitled](%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%87%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%AB%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%201ab9d0ec5af7414abd1027c861b0c7ca/Untitled.png)
+        ![nextstart](nextstart.png)
         
         ```tsx
         Log.ready(
@@ -90,7 +90,7 @@ packages/next/src/server/next.ts
         3. app이 있다면 서버 핸들러 생성
         - 서버핸들러 생성
             
-            [createServerHandler ](https://www.notion.so/createServerHandler-be9a272427104b47b3446f4c893d21c6?pvs=21)
+            [createServerHandler ](createServerHandler.md)
             
     
     ```tsx
